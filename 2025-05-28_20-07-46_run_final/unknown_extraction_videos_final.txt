@@ -1,0 +1,1134 @@
+Título Original: Armin van Buuren vs Vini Vici feat. Hilight Tribe - Great Spirit (Extended Mix)
+  Título Processado: Armin van Buuren vs Vini Vici feat. Hilight Tribe - Great Spirit (Extended Mix)
+  Extraído: Artista(s)='Unknown', Música='Armin Van Buuren Vs Vini Vici' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Drums of Thunder (Native American Music) Mountain Spirits
+  Título Processado: Drums of Thunder (Native American Music) Mountain Spirits
+  Extraído: Artista(s)='Unknown', Música='Drums of Thunder' (Fonte Extr.: llm)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Estrela do Guardião » Akaiê Sramana (Clipe Oficial)
+  Título Processado: Estrela do Guardião » Akaiê Sramana (Clipe Oficial)
+  Extraído: Artista(s)='Unknown', Música='Estrela do Guardião » Akaiê Sramana' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Ly  O  Lay Ale Loya (Circle Dance) ~ Native Song
+  Título Processado: Ly  O  Lay Ale Loya (Circle Dance) ~ Native Song
+  Extraído: Artista(s)='Unknown', Música='Ly O Lay Ale Loya (Circle Dance)' (Fonte Extr.: llm)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Northern Cree. Red Skin Girl
+  Título Processado: Northern Cree. Red Skin Girl
+  Extraído: Artista(s)='Unknown', Música='Northern Cree. Red Skin Girl' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Rapé Sagrado » Akaiê Sramana (Clipe Oficial)
+  Título Processado: Rapé Sagrado » Akaiê Sramana (Clipe Oficial)
+  Extraído: Artista(s)='Unknown', Música='Rapé Sagrado » Akaiê Sramana' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Comi uma gorda e gostei/amei
+  Título Processado: Comi uma gorda e gostei/amei
+  Extraído: Artista(s)='Unknown', Música='Comi Uma Gorda e Gostei/amei' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Adele-Rolling In The Deep(Jazz Metal Version)
+  Título Processado: Adele-Rolling In The Deep(Jazz Metal Version)
+  Extraído: Artista(s)='Unknown', Música='Adele-rolling in the Deep(jazz Metal Version)' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Alma De Guerreiro (Bonus Track)
+  Título Processado: Alma De Guerreiro (Bonus Track)
+  Extraído: Artista(s)='Unknown', Música='Alma de Guerreiro' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Gorillaz-Double Bass
+  Título Processado: Gorillaz-Double Bass
+  Extraído: Artista(s)='Unknown', Música='Gorillaz-double Bass' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: I Arranged Random E Minor Phrases Into A Beautiful Song
+  Título Processado: I Arranged Random E Minor Phrases Into A Beautiful Song
+  Extraído: Artista(s)='Unknown', Música='I Arranged Random E Minor Phrases Into A Beautiful Song' (Fonte Extr.: llm)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: I went to BRAZIL just to play this song...
+  Título Processado: I went to BRAZIL just to play this song...
+  Extraído: Artista(s)='Unknown', Música='I Went to Brazil Just to Play This Song...' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Incredible Bass Solo (Wojtek Pilichowski)
+  Título Processado: Incredible Bass Solo (Wojtek Pilichowski)
+  Extraído: Artista(s)='Unknown', Música='Incredible Bass Solo' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Kaze ni Naru (Cat Returns ukulele/bass cover)
+  Título Processado: Kaze ni Naru (Cat Returns ukulele/bass cover)
+  Extraído: Artista(s)='Unknown', Música='Kaze Ni Naru' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Primus Bass Medley
+  Título Processado: Primus Bass Medley
+  Extraído: Artista(s)='Unknown', Música='Primus Bass Medley' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Rage Against The Machine: Know Your Enemy
+  Título Processado: Rage Against The Machine: Know Your Enemy
+  Extraído: Artista(s)='Unknown', Música='Rage Against the Machine: Know Your Enemy' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Chopis Centis
+  Título Processado: Chopis Centis
+  Extraído: Artista(s)='Unknown', Música='Chopis Centis' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Colo de Menina- Rastapé
+  Título Processado: Colo de Menina- Rastapé
+  Extraído: Artista(s)='Unknown', Música='Colo de Menina- Rastapé' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Dedo no Cu e Gritaria
+  Título Processado: Dedo no Cu e Gritaria
+  Extraído: Artista(s)='Unknown', Música='Dedo No Cu e Gritaria' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Legião Urbana · Eduardo e Mônica
+  Título Processado: Legião Urbana · Eduardo e Mônica
+  Extraído: Artista(s)='Unknown', Música='Legião Urbana · Eduardo e Mônica' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: PALPITE-VANESSA RANGEL-VIDEO ORIGINAL-ANO 1997 ( HQ )
+  Título Processado: PALPITE-VANESSA RANGEL-VIDEO ORIGINAL-ANO 1997 ( HQ )
+  Extraído: Artista(s)='Unknown', Música='Palpite-vanessa Rangel-video Original-ano 1997' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Rastapé- Um Anjo do Céu
+  Título Processado: Rastapé- Um Anjo do Céu
+  Extraído: Artista(s)='Unknown', Música='Rastapé- Um Anjo do Céu' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Raul seixas- Metamorfose ambulante
+  Título Processado: Raul seixas- Metamorfose ambulante
+  Extraído: Artista(s)='Unknown', Música='Raul Seixas- Metamorfose Ambulante' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Rio Soundtrack- 03 Mas Que Nada (2011 Rio Version)
+  Título Processado: Rio Soundtrack- 03 Mas Que Nada (2011 Rio Version)
+  Extraído: Artista(s)='Unknown', Música='Rio Soundtrack- 03 Mas Que Nada' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Rio Soundtrack- 04 Hot Wings (I Wanna Party)
+  Título Processado: Rio Soundtrack- 04 Hot Wings (I Wanna Party)
+  Extraído: Artista(s)='Unknown', Música='Rio Soundtrack- 04 Hot Wings' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (Olodum Mix)
+  Título Processado: We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (Olodum Mix)
+  Extraído: Artista(s)='Unknown', Música='We Are One' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Zeca Pagodinho-''Ogum''
+  Título Processado: Zeca Pagodinho-''Ogum''
+  Extraído: Artista(s)='Unknown', Música='Zeca Pagodinho-''ogum''' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Atleta do Ano (Remix)
+  Título Processado: Atleta do Ano (Remix)
+  Extraído: Artista(s)='Unknown', Música='Atleta do Ano' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Racista e N1Ke (feat. Soffiatti)
+  Título Processado: Racista e N1Ke (feat. Soffiatti)
+  Extraído: Artista(s)='Unknown', Música='Racista e N1Ke (feat. Soffiatti)' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: A gostosona (A gauchona)
+  Título Processado: A gostosona (A gauchona)
+  Extraído: Artista(s)='Unknown', Música='A Gostosona' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Anderson .Paak & The Free Nationals: NPR Music Tiny Desk Concert
+  Título Processado: Anderson .Paak & The Free Nationals: NPR Music Tiny Desk Concert
+  Extraído: Artista(s)='Anderson .paak, The Free Nationals', Música='Unknown' (Fonte Extr.: llm)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Anitta with Ludmilla and Snoop Dogg feat. Papatinho - Onda Diferente (Official Music Video)
+  Título Processado: Anitta with Ludmilla and Snoop Dogg feat. Papatinho - Onda Diferente (Official Music Video)
+  Extraído: Artista(s)='Unknown', Música='Anitta' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Anitta, Mc Zaac, Maejor feat. Tropkillaz & DJ Yuri Martins - Vai Malandra [Official Music Video]
+  Título Processado: Anitta, Mc Zaac, Maejor feat. Tropkillaz & DJ Yuri Martins - Vai Malandra [Official Music Video]
+  Extraído: Artista(s)='Unknown', Música='Anitta, MC Zaac, Maejor' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: I'm Still Standing (Remastered)
+  Título Processado: I'm Still Standing (Remastered)
+  Extraído: Artista(s)='Unknown', Música='i'M Still Standing' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Nois tropica, mas não cai
+  Título Processado: Nois tropica, mas não cai
+  Extraído: Artista(s)='Unknown', Música='Nois Tropica, Mas Não Cai' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Onda Onda (Olha a Onda)(720P_HD)
+  Título Processado: Onda Onda (Olha a Onda)(720P_HD)
+  Extraído: Artista(s)='Unknown', Música='Onda Onda (olha a Onda)(720p_hd)' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Que Popotão Grandão
+  Título Processado: Que Popotão Grandão
+  Extraído: Artista(s)='Unknown', Música='Que Popotão Grandão' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Speed Demon (2012 Remaster)
+  Título Processado: Speed Demon (2012 Remaster)
+  Extraído: Artista(s)='Unknown', Música='Speed Demon' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: They Don't Care About Us (Remastered Version)
+  Título Processado: They Don't Care About Us (Remastered Version)
+  Extraído: Artista(s)='Unknown', Música='They Don't Care About Us' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Here Comes The Sun (Remastered 2009)
+  Título Processado: Here Comes The Sun (Remastered 2009)
+  Extraído: Artista(s)='Unknown', Música='Here Comes the Sun' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Janis Joplin-Mercedes Benz(original)
+  Título Processado: Janis Joplin-Mercedes Benz(original)
+  Extraído: Artista(s)='Unknown', Música='Janis Joplin-mercedes Benz(original)' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Let It Be (Remastered 2009)
+  Título Processado: Let It Be (Remastered 2009)
+  Extraído: Artista(s)='Unknown', Música='Let It Be' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Lucy In The Sky With Diamonds (Remastered 2009)
+  Título Processado: Lucy In The Sky With Diamonds (Remastered 2009)
+  Extraído: Artista(s)='Unknown', Música='Lucy in the Sky with Diamonds' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Tenacious D "Beelzeboss" with lyrics
+  Título Processado: Tenacious D "Beelzeboss" with lyrics
+  Extraído: Artista(s)='Unknown', Música='Tenacious D "beelzeboss" with Lyrics' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Tenacious D: Master Exploder
+  Título Processado: Tenacious D: Master Exploder
+  Extraído: Artista(s)='Unknown', Música='Tenacious D: Master Exploder' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: The Beatles Twist & Shout HD
+  Título Processado: The Beatles Twist & Shout HD
+  Extraído: Artista(s)='Unknown', Música='The Beatles Twist & Shout Hd' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: The Beatles Yesterday (2009 Stereo Remaster) [HD]
+  Título Processado: The Beatles Yesterday (2009 Stereo Remaster) [HD]
+  Extraído: Artista(s)='Unknown', Música='The Beatles Yesterday' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Eu Não Gosto de Mentira
+  Título Processado: Eu Não Gosto de Mentira
+  Extraído: Artista(s)='Unknown', Música='Eu Não Gosto de Mentira' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Watsky- Never Let it Die [All You Can Do]
+  Título Processado: Watsky- Never Let it Die [All You Can Do]
+  Extraído: Artista(s)='Unknown', Música='Watsky- Never Let It Die' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: 808 Music: Lehua Kalima and Shawn Pimental
+  Título Processado: 808 Music: Lehua Kalima and Shawn Pimental
+  Extraído: Artista(s)='Unknown', Música='808 Music: Lehua Kalima and Shawn Pimental' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Augustus Gloop
+  Título Processado: Augustus Gloop
+  Extraído: Artista(s)='Unknown', Música='Augustus Gloop' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Bonnie and Clyde- Vermillion lies
+  Título Processado: Bonnie and Clyde- Vermillion lies
+  Extraído: Artista(s)='Unknown', Música='Bonnie and Clyde- Vermillion Lies' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Davy Jones [Lyrics]
+  Título Processado: Davy Jones [Lyrics]
+  Extraído: Artista(s)='Unknown', Música='Davy Jones' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Day O (Banana Boat Song)
+  Título Processado: Day O (Banana Boat Song)
+  Extraído: Artista(s)='Unknown', Música='Day O' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Don't Hug me I'm Scared
+  Título Processado: Don't Hug me I'm Scared
+  Extraído: Artista(s)='Unknown', Música='Don't Hug Me i'M Scared' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Don't Let Me Down (Remastered 2009)
+  Título Processado: Don't Let Me Down (Remastered 2009)
+  Extraído: Artista(s)='Unknown', Música='Don't Let Me Down' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Dvd Skylab IX 15- Carrocinha de Cachorro Quente
+  Título Processado: Dvd Skylab IX 15- Carrocinha de Cachorro Quente
+  Extraído: Artista(s)='Unknown', Música='Carrocinha de Cachorro Quente' (Fonte Extr.: llm)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: FRIED NOODLES
+  Título Processado: FRIED NOODLES
+  Extraído: Artista(s)='Unknown', Música='Fried Noodles' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: FRIENDZONE SONG
+  Título Processado: FRIENDZONE SONG
+  Extraído: Artista(s)='Unknown', Música='Friendzone Song' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Godzilla (feat. Juice WRLD) [Official Audio]
+  Título Processado: Godzilla (feat. Juice WRLD) [Official Audio]
+  Extraído: Artista(s)='Unknown', Música='Godzilla (feat. Juice Wrld)' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: He Mele No Lilo (From Lilo & Stitch) (A Song For Lilo)
+  Título Processado: He Mele No Lilo (From Lilo & Stitch) (A Song For Lilo)
+  Extraído: Artista(s)='Unknown', Música='He Mele No Lilo' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: I Killed You
+  Título Processado: I Killed You
+  Extraído: Artista(s)='Unknown', Música='I Killed You' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: I'm Always Chasing Rainbows-Judy Garland
+  Título Processado: I'm Always Chasing Rainbows-Judy Garland
+  Extraído: Artista(s)='Unknown', Música='i'M Always Chasing Rainbows-judy Garland' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Le Festin- Camille (Ratatouille Soundtrack)
+  Título Processado: Le Festin- Camille (Ratatouille Soundtrack)
+  Extraído: Artista(s)='Unknown', Música='Le Festin- Camille' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: MATUEIGHT 🚬🔥 (PARÓDIA Matuê - Kenny G)
+  Título Processado: MATUEIGHT 🚬🔥 (PARÓDIA Matuê - Kenny G)
+  Extraído: Artista(s)='Unknown', Música='Matueight 🚬🔥' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: MC POZE DO QUEIJO 🧀 (PARÓDIA Vida Louca)
+  Título Processado: MC POZE DO QUEIJO 🧀 (PARÓDIA Vida Louca)
+  Extraído: Artista(s)='Unknown', Música='MC Poze do Queijo 🧀' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Mademoiselle Noir (Lyrics)
+  Título Processado: Mademoiselle Noir (Lyrics)
+  Extraído: Artista(s)='Unknown', Música='Mademoiselle Noir' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: My Way (2008 Remastered)
+  Título Processado: My Way (2008 Remastered)
+  Extraído: Artista(s)='Unknown', Música='My Way' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: NATAL DUCARAY 2017 (PARÓDIA Dubai - Hungria Hip Hop)
+  Título Processado: NATAL DUCARAY 2017 (PARÓDIA Dubai - Hungria Hip Hop)
+  Extraído: Artista(s)='Unknown', Música='Natal Ducaray 2017' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: NOSTRA MORTE  Requiem Demort LETRA
+  Título Processado: NOSTRA MORTE  Requiem Demort LETRA
+  Extraído: Artista(s)='Unknown', Música='Nostra Morte Requiem Demort Letra' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Nego Bamesis Gozangelion (Evangelion -Zankoku na Tenshi no Te-ze - paródia)
+  Título Processado: Nego Bamesis Gozangelion (Evangelion -Zankoku na Tenshi no Te-ze - paródia)
+  Extraído: Artista(s)='Unknown', Música='Nego Bamesis Gozangelion' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: O MENINO DE VÓ FOI BUSCAR UM PÓ (PARÓDIA)
+  Título Processado: O MENINO DE VÓ FOI BUSCAR UM PÓ (PARÓDIA)
+  Extraído: Artista(s)='Unknown', Música='O MENINO DE VÓ FOI BUSCAR UM PÓ' (Fonte Extr.: llm)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: OS MENINO TÃO COM COROTE 💣 (PARÓDIA MC PH)
+  Título Processado: OS MENINO TÃO COM COROTE 💣 (PARÓDIA MC PH)
+  Extraído: Artista(s)='Unknown', Música='Os Menino Tão Com Corote 💣' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Rich Brian ft. Joji - Where Does The Time Go (Lyric Video)
+  Título Processado: Rich Brian ft. Joji - Where Does The Time Go (Lyric Video)
+  Extraído: Artista(s)='Unknown', Música='Rich Brian' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Rogério Skylab Moto-serra
+  Título Processado: Rogério Skylab Moto-serra
+  Extraído: Artista(s)='Unknown', Música='Rogério Skylab Moto-serra' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: SOPOR AETERNUS: "DeathHouse" (lyric video)
+  Título Processado: SOPOR AETERNUS: "DeathHouse" (lyric video)
+  Extraído: Artista(s)='Unknown', Música='Sopor Aeternus: "deathhouse"' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: SOPOR AETERNUS: "In der Palästra" (music video)
+  Título Processado: SOPOR AETERNUS: "In der Palästra" (music video)
+  Extraído: Artista(s)='Unknown', Música='Sopor Aeternus: "in Der Palästra"' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: THAT GUY
+  Título Processado: THAT GUY
+  Extraído: Artista(s)='Unknown', Música='That Guy' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Tom Jobim: Garota de Ipanema (com Vinicius de Moraes)
+  Título Processado: Tom Jobim: Garota de Ipanema (com Vinicius de Moraes)
+  Extraído: Artista(s)='Unknown', Música='Tom Jobim: Garota de Ipanema' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Tyler, The Creator: NPR Music Tiny Desk Concert
+  Título Processado: Tyler, The Creator: NPR Music Tiny Desk Concert
+  Extraído: Artista(s)='Tyler, the Creator', Música='Unknown' (Fonte Extr.: llm)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Voltaire-Dia de los muertos
+  Título Processado: Voltaire-Dia de los muertos
+  Extraído: Artista(s)='Unknown', Música='Voltaire-dia de los Muertos' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Your Song
+  Título Processado: Your Song
+  Extraído: Artista(s)='Unknown', Música='Your Song' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: squabble up
+  Título Processado: squabble up
+  Extraído: Artista(s)='Unknown', Música='Squabble Up' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Irish Drinking Song- Rocky Road to Dublin
+  Título Processado: Irish Drinking Song- Rocky Road to Dublin
+  Extraído: Artista(s)='Unknown', Música='Irish Drinking Song- Rocky Road to Dublin' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Johnny Cash-The_Man_Comes Around
+  Título Processado: Johnny Cash-The_Man_Comes Around
+  Extraído: Artista(s)='Unknown', Música='Johnny Cash-the_man_comes Around' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Raindrops Keep Falling on my Head
+  Título Processado: Raindrops Keep Falling on my Head
+  Extraído: Artista(s)='Unknown', Música='Raindrops Keep Falling on My Head' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Retirement Song
+  Título Processado: Retirement Song
+  Extraído: Artista(s)='Unknown', Música='Retirement Song' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: The Jolly Rogers: THE DEVIL'S REACH
+  Título Processado: The Jolly Rogers: THE DEVIL'S REACH
+  Extraído: Artista(s)='Unknown', Música='The Jolly Rogers: the Devil's Reach' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: The Mariner's Revenge Song
+  Título Processado: The Mariner's Revenge Song
+  Extraído: Artista(s)='Unknown', Música='The Mariner's Revenge Song' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: The New Knife Game Song
+  Título Processado: The New Knife Game Song
+  Extraído: Artista(s)='Unknown', Música='The New Knife Game Song' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: MC Suave Azul ft. Sampley
+  Título Processado: MC Suave Azul ft. Sampley
+  Extraído: Artista(s)='Unknown', Música='MC Suave Azul Ft. Sampley' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Mc Gorila- Cheio de Sal (Gdj Studio)
+  Título Processado: Mc Gorila- Cheio de Sal (Gdj Studio)
+  Extraído: Artista(s)='Unknown', Música='MC Gorila- Cheio de Sal' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Mc Lan Nos Anos 80 (REMIX)
+  Título Processado: Mc Lan Nos Anos 80 (REMIX)
+  Extraído: Artista(s)='Unknown', Música='MC Lan Nos Anos 80' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Nostra Morte- Arcangel Seductor
+  Título Processado: Nostra Morte- Arcangel Seductor
+  Extraído: Artista(s)='Unknown', Música='Nostra Morte- Arcangel Seductor' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Nostra morte la prision de los 100 años con letra
+  Título Processado: Nostra morte la prision de los 100 años con letra
+  Extraído: Artista(s)='Unknown', Música='Nostra morte la prision de los 100 años' (Fonte Extr.: llm)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Video: Moonspell "Night Eternal"
+  Título Processado: Video: Moonspell "Night Eternal"
+  Extraído: Artista(s)='Unknown', Música='Video: Moonspell "night Eternal"' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: ANABANTHA: Hechizo (VIDEO OFICIAL)
+  Título Processado: ANABANTHA: Hechizo (VIDEO OFICIAL)
+  Extraído: Artista(s)='Unknown', Música='Anabantha: Hechizo' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Aurelio Voltaire- Raised by Bats (OFFICIAL) with lyrics
+  Título Processado: Aurelio Voltaire- Raised by Bats (OFFICIAL) with lyrics
+  Extraído: Artista(s)='Unknown', Música='Aurelio Voltaire- Raised by Bats with Lyrics' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Aurelio Voltaire- The Masquerade (OFFICIAL) with lyrics
+  Título Processado: Aurelio Voltaire- The Masquerade (OFFICIAL) with lyrics
+  Extraído: Artista(s)='Unknown', Música='Aurelio Voltaire- the Masquerade with Lyrics' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Blue-eyed Matador
+  Título Processado: Blue-eyed Matador
+  Extraído: Artista(s)='Unknown', Música='Blue-eyed Matador' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Cathouse Tragedy
+  Título Processado: Cathouse Tragedy
+  Extraído: Artista(s)='Unknown', Música='Cathouse Tragedy' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Death To The World (with lyrics in description)
+  Título Processado: Death To The World (with lyrics in description)
+  Extraído: Artista(s)='Unknown', Música='Death to the World' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Jill Tracy-The Fine Art of Poisoning
+  Título Processado: Jill Tracy-The Fine Art of Poisoning
+  Extraído: Artista(s)='Unknown', Música='Jill Tracy-the Fine Art of Poisoning' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Lycanthia-Hair of the Beast
+  Título Processado: Lycanthia-Hair of the Beast
+  Extraído: Artista(s)='Unknown', Música='Lycanthia-hair of the Beast' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: MADEMOISELLE NOIR: A Tragedy
+  Título Processado: MADEMOISELLE NOIR: A Tragedy
+  Extraído: Artista(s)='Unknown', Música='Mademoiselle Noir: a Tragedy' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Ordo Funebris -A Witches Song
+  Título Processado: Ordo Funebris -A Witches Song
+  Extraído: Artista(s)='Unknown', Música='Ordo Funebris -a Witches Song' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Ordo Funebris- Lycanthia
+  Título Processado: Ordo Funebris- Lycanthia
+  Extraído: Artista(s)='Unknown', Música='Ordo Funebris- Lycanthia' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Phantom of the Opera
+  Título Processado: Phantom of the Opera
+  Extraído: Artista(s)='Unknown', Música='Phantom of the Opera' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: SOPOR AETERNUS: "A Strange Thing To Say" (music video)
+  Título Processado: SOPOR AETERNUS: "A Strange Thing To Say" (music video)
+  Extraído: Artista(s)='Unknown', Música='Sopor Aeternus: "a Strange Thing to Say"' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: SOPOR AETERNUS: "Children of the Corn" (music video)
+  Título Processado: SOPOR AETERNUS: "Children of the Corn" (music video)
+  Extraído: Artista(s)='Unknown', Música='Sopor Aeternus: "children of the Corn"' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Don't Stop Me Now (... Revisited)
+  Título Processado: Don't Stop Me Now (... Revisited)
+  Extraído: Artista(s)='Unknown', Música='Don't Stop Me Now' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Dvd Skylab IX  30- Matador de Passarinho
+  Título Processado: Dvd Skylab IX  30- Matador de Passarinho
+  Extraído: Artista(s)='Unknown', Música='Dvd Skylab IX 30- Matador de Passarinho' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Get on Top with lyrics
+  Título Processado: Get on Top with lyrics
+  Extraído: Artista(s)='Unknown', Música='Get on Top with Lyrics' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Land of The Dead (Fan Animated)
+  Título Processado: Land of The Dead (Fan Animated)
+  Extraído: Artista(s)='Unknown', Música='Land of the Dead' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Metallica-Master Of Puppets (Lyrics)
+  Título Processado: Metallica-Master Of Puppets (Lyrics)
+  Extraído: Artista(s)='Unknown', Música='Metallica-master of Puppets' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Metallica: Enter Sandman (Official Music Video)
+  Título Processado: Metallica: Enter Sandman (Official Music Video)
+  Extraído: Artista(s)='Unknown', Música='Metallica: Enter Sandman' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Metallica: One (Official Music Video)
+  Título Processado: Metallica: One (Official Music Video)
+  Extraído: Artista(s)='Unknown', Música='Metallica: One' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Ozzy Osbourne   Bark at the Moon   live
+  Título Processado: Ozzy Osbourne   Bark at the Moon   live
+  Extraído: Artista(s)='Unknown', Música='Ozzy Osbourne Bark at the Moon' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Panic! At The Disco: Emperor's New Clothes [OFFICIAL VIDEO]
+  Título Processado: Panic! At The Disco: Emperor's New Clothes [OFFICIAL VIDEO]
+  Extraído: Artista(s)='Unknown', Música='Panic! at the Disco: Emperor's New Clothes' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Shout (cover Version)
+  Título Processado: Shout (cover Version)
+  Extraído: Artista(s)='Unknown', Música='Shout' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: System of a Down Radio/Video
+  Título Processado: System of a Down Radio/Video
+  Extraído: Artista(s)='Unknown', Música='System of a Down Radio/video' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: The Book of Heavy Metal (cover Version)
+  Título Processado: The Book of Heavy Metal (cover Version)
+  Extraído: Artista(s)='Unknown', Música='The Book of Heavy Metal' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: twenty one pilots: Car Radio [OFFICIAL VIDEO]
+  Título Processado: twenty one pilots: Car Radio [OFFICIAL VIDEO]
+  Extraído: Artista(s)='Unknown', Música='Twenty One Pilots: Car Radio' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: twenty one pilots: Stressed Out [OFFICIAL VIDEO]
+  Título Processado: twenty one pilots: Stressed Out [OFFICIAL VIDEO]
+  Extraído: Artista(s)='Unknown', Música='Twenty One Pilots: Stressed Out' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: CapN1ne- Dare You To Look(Devilz Nite 2009)
+  Título Processado: CapN1ne- Dare You To Look(Devilz Nite 2009)
+  Extraído: Artista(s)='Unknown', Música='Capn1ne- Dare You to Look(devilz Nite 2009)' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Cardi B "Red Barz" (WSHH Exclusive - Official Music Video)
+  Título Processado: Cardi B "Red Barz" (WSHH Exclusive - Official Music Video)
+  Extraído: Artista(s)='Unknown', Música='Cardi B "red Barz"' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Lucky You (Feat. Joyner Lucas) [Official Audio]
+  Título Processado: Lucky You (Feat. Joyner Lucas) [Official Audio]
+  Extraído: Artista(s)='Unknown', Música='Lucky You (feat. Joyner Lucas)' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: SEE YOU AGAIN featuring Kali Uchis
+  Título Processado: SEE YOU AGAIN featuring Kali Uchis
+  Extraído: Artista(s)='Unknown', Música='See You Again Featuring Kali Uchis' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Tyler, the Creator- Domo 23
+  Título Processado: Tyler, the Creator- Domo 23
+  Extraído: Artista(s)='Unknown', Música='Tyler, the Creator- Domo 23' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Mirai Nikki Opening 1 [VOSTFR]
+  Título Processado: Mirai Nikki Opening 1 [VOSTFR]
+  Extraído: Artista(s)='Unknown', Música='Mirai Nikki Opening 1' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Naruto SD Opening 1
+  Título Processado: Naruto SD Opening 1
+  Extraído: Artista(s)='Unknown', Música='Naruto Sd Opening 1' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Noragami Opening Creditless
+  Título Processado: Noragami Opening Creditless
+  Extraído: Artista(s)='Unknown', Música='Noragami Opening Creditless' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Toriko Opening 1 [HD]
+  Título Processado: Toriko Opening 1 [HD]
+  Extraído: Artista(s)='Unknown', Música='Toriko Opening 1' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: O Sino da Igrejinha (Digital Mandinga Remix)
+  Título Processado: O Sino da Igrejinha (Digital Mandinga Remix)
+  Extraído: Artista(s)='Unknown', Música='O Sino da Igrejinha' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Bambam Bodybuilder -Remix by AtilaKw
+  Título Processado: Bambam Bodybuilder -Remix by AtilaKw
+  Extraído: Artista(s)='Unknown', Música='Bambam Bodybuilder -remix by Atilakw' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Hellraiser (30th Anniversary Edition - Official Animated Video)
+  Título Processado: Hellraiser (30th Anniversary Edition - Official Animated Video)
+  Extraído: Artista(s)='Unknown', Música='Hellraiser' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Smooth Criminal (metal cover by Leo Moracchioli)
+  Título Processado: Smooth Criminal (metal cover by Leo Moracchioli)
+  Extraído: Artista(s)='Unknown', Música='Smooth Criminal' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Earth Song (Remastered Version)
+  Título Processado: Earth Song (Remastered Version)
+  Extraído: Artista(s)='Unknown', Música='Earth Song' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Abbot ft.Somynem.grin -"HYLANDER"- 🐀
+  Título Processado: Abbot ft.Somynem.grin -"HYLANDER"- 🐀
+  Extraído: Artista(s)='Unknown', Música='Abbot Ft.somynem.grin -"hylander"- 🐀' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Big Poppa (2007 Remaster)
+  Título Processado: Big Poppa (2007 Remaster)
+  Extraído: Artista(s)='Unknown', Música='Big Poppa' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: DON'T START MOSTRA O PEITIN NOW 🤭🤭🤭
+  Título Processado: DON'T START MOSTRA O PEITIN NOW 🤭🤭🤭
+  Extraído: Artista(s)='Unknown', Música='Don't Start Mostra O Peitin Now 🤭🤭🤭' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Dancing in the Moonlight (King Harvest Through the Years)
+  Título Processado: Dancing in the Moonlight (King Harvest Through the Years)
+  Extraído: Artista(s)='Unknown', Música='Dancing in the Moonlight' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Die For You ft. Grabbitz // Official Music Video // VALORANT Champions 2021
+  Título Processado: Die For You ft. Grabbitz // Official Music Video // VALORANT Champions 2021
+  Extraído: Artista(s)='Unknown', Música='Die for You Ft. Grabbitz' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Emperors New Clothes- Panic! At The Disco
+  Título Processado: Emperors New Clothes- Panic! At The Disco
+  Extraído: Artista(s)='Unknown', Música='Emperors New Clothes- Panic! at the Disco' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: FEEL THIS AOM MOMENT
+  Título Processado: FEEL THIS AOM MOMENT
+  Extraído: Artista(s)='Unknown', Música='Feel This Aom Moment' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Footloose (From "Footloose" Soundtrack)
+  Título Processado: Footloose (From "Footloose" Soundtrack)
+  Extraído: Artista(s)='Unknown', Música='Footloose' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Free Bird (Edit)
+  Título Processado: Free Bird (Edit)
+  Extraído: Artista(s)='Unknown', Música='Free Bird' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Ghost
+  Título Processado: Ghost
+  Extraído: Artista(s)='Unknown', Música='Ghost' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Ghost Town
+  Título Processado: Ghost Town
+  Extraído: Artista(s)='Unknown', Música='Ghost Town' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Gorillaz-Dirty Harry
+  Título Processado: Gorillaz-Dirty Harry
+  Extraído: Artista(s)='Unknown', Música='Gorillaz-dirty Harry' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Hello Sleepwalkers「午夜の待ち合わせ」MUSIC VIDEO
+  Título Processado: Hello Sleepwalkers「午夜の待ち合わせ」MUSIC VIDEO
+  Extraído: Artista(s)='Unknown', Música='Hello Sleepwalkers「午夜の待ち合わせ」music Video' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: JoJo's Bizarre Adventure Opening 5 Full『CRAZY NOISY BIZARRE TOWN』
+  Título Processado: JoJo's Bizarre Adventure Opening 5 Full『CRAZY NOISY BIZARRE TOWN』
+  Extraído: Artista(s)='Unknown', Música='CRAZY NOISY BIZARRE TOWN' (Fonte Extr.: llm)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Paramore: Misery Business [OFFICIAL VIDEO]
+  Título Processado: Paramore: Misery Business [OFFICIAL VIDEO]
+  Extraído: Artista(s)='Unknown', Música='Paramore: Misery Business' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Rage Against The Machine: Bulls On Parade
+  Título Processado: Rage Against The Machine: Bulls On Parade
+  Extraído: Artista(s)='Unknown', Música='Rage Against the Machine: Bulls on Parade' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Rage Against The Machine: Testify
+  Título Processado: Rage Against The Machine: Testify
+  Extraído: Artista(s)='Unknown', Música='Rage Against the Machine: Testify' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Revelação:Velocidade da luz
+  Título Processado: Revelação:Velocidade da luz
+  Extraído: Artista(s)='Unknown', Música='Revelação:velocidade da Luz' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: SINCRONIZADAMENTE
+  Título Processado: SINCRONIZADAMENTE
+  Extraído: Artista(s)='Unknown', Música='Sincronizadamente' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Sergio Mendes feat. Black Eyed Peas - Mas Que Nada
+  Título Processado: Sergio Mendes feat. Black Eyed Peas - Mas Que Nada
+  Extraído: Artista(s)='Unknown', Música='Sergio Mendes' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Tropa De Elite
+  Título Processado: Tropa De Elite
+  Extraído: Artista(s)='Unknown', Música='Tropa de Elite' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Whisky a Go-Go
+  Título Processado: Whisky a Go-Go
+  Extraído: Artista(s)='Unknown', Música='Whisky a Go-go' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: [Electro Swing Remix] A Friend Like Me
+  Título Processado: [Electro Swing Remix] A Friend Like Me
+  Extraído: Artista(s)='Unknown', Música='[electro Swing Remix] a Friend Like Me' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: [Electro Swing Remix] Friends On The Other Side (The Princess and The Frog)
+  Título Processado: [Electro Swing Remix] Friends On The Other Side (The Princess and The Frog)
+  Extraído: Artista(s)='Unknown', Música='Friends On The Other Side' (Fonte Extr.: llm)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: 大張偉 Wowkie Zhang【陽光彩虹小白馬】HD 高清官方完整版 MV
+  Título Processado: 大張偉 Wowkie Zhang【陽光彩虹小白馬】HD 高清官方完整版 MV
+  Extraído: Artista(s)='Unknown', Música='大張偉 Wowkie Zhang【陽光彩虹小白馬】hd 高清官方完整版 Mv' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: ＜ノラガミARAGOTO＞OPテーマ  THE ORAL CIGARETTES「狂乱 Hey Kids!!」MusicVideo
+  Título Processado: ＜ノラガミARAGOTO＞OPテーマ  THE ORAL CIGARETTES「狂乱 Hey Kids!!」MusicVideo
+  Extraído: Artista(s)='Unknown', Música='＜ノラガミaragoto＞opテーマ the Oral Cigarettes「狂乱 Hey Kids!!」musicvideo' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: EVERYBODY DO THE FLOP (asdfmovie song)
+  Título Processado: EVERYBODY DO THE FLOP (asdfmovie song)
+  Extraído: Artista(s)='Unknown', Música='Everybody do the Flop' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: SMOSH Assassin's Creed 3 Song [MUSIC VIDEO]
+  Título Processado: SMOSH Assassin's Creed 3 Song [MUSIC VIDEO]
+  Extraído: Artista(s)='Unknown', Música='Smosh Assassin's Creed 3 Song' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Heavy Roots Presenta: Burning Song con Morodo [VIDEOCLIP OFICIAL]
+  Título Processado: Heavy Roots Presenta: Burning Song con Morodo [VIDEOCLIP OFICIAL]
+  Extraído: Artista(s)='Unknown', Música='Heavy Roots Presenta: Burning Song Con Morodo' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Avatar Legend of Korra Ending Theme
+  Título Processado: Avatar Legend of Korra Ending Theme
+  Extraído: Artista(s)='Unknown', Música='Avatar Legend of Korra Ending Theme' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Just the Two of Us (feat. Bill Withers)
+  Título Processado: Just the Two of Us (feat. Bill Withers)
+  Extraído: Artista(s)='Unknown', Música='Just the Two of Us' (Fonte Extr.: llm)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Married Life
+  Título Processado: Married Life
+  Extraído: Artista(s)='Unknown', Música='Married Life' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: twenty one pilots: Heathens (from Suicide Squad: The Album) [OFFICIAL VIDEO]
+  Título Processado: twenty one pilots: Heathens (from Suicide Squad: The Album) [OFFICIAL VIDEO]
+  Extraído: Artista(s)='Unknown', Música='Twenty One Pilots: Heathens' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: twenty one pilots: Heavydirtysoul [OFFICIAL VIDEO]
+  Título Processado: twenty one pilots: Heavydirtysoul [OFFICIAL VIDEO]
+  Extraído: Artista(s)='Unknown', Música='Twenty One Pilots: Heavydirtysoul' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: twenty one pilots: Lane Boy [OFFICIAL VIDEO]
+  Título Processado: twenty one pilots: Lane Boy [OFFICIAL VIDEO]
+  Extraído: Artista(s)='Unknown', Música='Twenty One Pilots: Lane Boy' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: twenty one pilots: Tear In My Heart [OFFICIAL VIDEO]
+  Título Processado: twenty one pilots: Tear In My Heart [OFFICIAL VIDEO]
+  Extraído: Artista(s)='Unknown', Música='Twenty One Pilots: Tear in My Heart' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: É O Amor-Zezé Di Camargo & Luciano
+  Título Processado: É O Amor-Zezé Di Camargo & Luciano
+  Extraído: Artista(s)='Unknown', Música='É O Amor-zezé Di Camargo & Luciano' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Booty Call (feat. Yumaru & EF)
+  Título Processado: Booty Call (feat. Yumaru & EF)
+  Extraído: Artista(s)='Unknown', Música='Booty Call (feat. Yumaru & Ef)' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Ralucagem (feat. Lil Fuub e MY CONQUISTER)
+  Título Processado: Ralucagem (feat. Lil Fuub e MY CONQUISTER)
+  Extraído: Artista(s)='Unknown', Música='Ralucagem (feat. Lil Fuub e My Conquister)' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Assassin's Creed IV: Black Flag OST Sea Shanty "Leave Her Johnny" HD
+  Título Processado: Assassin's Creed IV: Black Flag OST Sea Shanty "Leave Her Johnny" HD
+  Extraído: Artista(s)='Unknown', Música='Leave Her Johnny' (Fonte Extr.: llm)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Randy Dandy-Oh
+  Título Processado: Randy Dandy-Oh
+  Extraído: Artista(s)='Unknown', Música='Randy Dandy-oh' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Song of the Vikings (My Mother Told Me)
+  Título Processado: Song of the Vikings (My Mother Told Me)
+  Extraído: Artista(s)='Unknown', Música='Song of the Vikings' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Tetris RAP ANIMATED! The Long Piece is the BEST PIECE!! - (Animated by TopSpinTheFuzzy and Lady Red)
+  Título Processado: Tetris RAP ANIMATED! The Long Piece is the BEST PIECE!! - (Animated by TopSpinTheFuzzy and Lady Red)
+  Extraído: Artista(s)='Unknown', Música='Tetris RAP' (Fonte Extr.: llm)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: 6IX9INE "Gotti" (WSHH Exclusive - Official Music Video)
+  Título Processado: 6IX9INE "Gotti" (WSHH Exclusive - Official Music Video)
+  Extraído: Artista(s)='Unknown', Música='6ix9ine "gotti"' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: 6IX9INE "Kooda" (WSHH Exclusive - Official Music Video)
+  Título Processado: 6IX9INE "Kooda" (WSHH Exclusive - Official Music Video)
+  Extraído: Artista(s)='Unknown', Música='6ix9ine "kooda"' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: 6IX9INE- GOOBA (Official Music Video)
+  Título Processado: 6IX9INE- GOOBA (Official Music Video)
+  Extraído: Artista(s)='Unknown', Música='6ix9ine- Gooba' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Offset "Violation Freestyle" (WSHH Exclusive - Official Music Video)
+  Título Processado: Offset "Violation Freestyle" (WSHH Exclusive - Official Music Video)
+  Extraído: Artista(s)='Unknown', Música='Offset "violation Freestyle"' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Tóxico  (Lyric Video) Prod. Wzy
+  Título Processado: Tóxico  (Lyric Video) Prod. Wzy
+  Extraído: Artista(s)='Unknown', Música='Tóxico Prod. Wzy' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Sunlight On Your Skin (Bonus Track)
+  Título Processado: Sunlight On Your Skin (Bonus Track)
+  Extraído: Artista(s)='Unknown', Música='Sunlight on Your Skin' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: Burzum-Fallen-Jeg Faller.
+  Título Processado: Burzum-Fallen-Jeg Faller.
+  Extraído: Artista(s)='Unknown', Música='Burzum-fallen-jeg Faller.' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------
+Título Original: This PRO Bassist BETRAYED Me... (BASS BATTLE)
+  Título Processado: This PRO Bassist BETRAYED Me... (BASS BATTLE)
+  Extraído: Artista(s)='Unknown', Música='This Pro Bassist Betrayed Me...' (Fonte Extr.: regex)
+  Canal: Unknown, Playlist de Origem: TudoJuntoLeve
+  URL: None
+--------------------------------------------------

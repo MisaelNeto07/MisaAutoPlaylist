@@ -1,0 +1,37 @@
+--- RELATÓRIO DE EXECUÇÃO DO SCRIPT (process_library_final.py) ---
+Início do Processamento: 2025-05-28 20:07:46
+Fim do Processamento: 2025-05-28 20:08:19
+Duração Total do Processamento: 33.01 segundos
+
+--- Resumo do Processamento de Vídeos ---
+Total de entradas de vídeo lidas: 2328
+Vídeos identificados como música por 'is_likely_music_video': 1956
+Vídeos pulados (não-música, erro ou título vazio): 372
+Faixas duplicadas puladas após identificação: 67
+
+--- Extração de Informações Musicais (para vídeos de música identificados) ---
+Artista(s) E Música extraídos com sucesso (Regex): 1677
+Artista(s) E Música extraídos com sucesso (LLM fallback): 23
+Total de extrações bem-sucedidas (Artista E Música): 1700
+Artista(s) não pôde(puderam) ser determinado(s) (final): 187
+Título da música não pôde ser determinado (final): 2
+Artista(s) E Título da música foram 'Unknown' (final): 0
+
+--- Uso da LLM ---
+Entradas onde LLM foi usada para extração primária (artista/música): 41
+Nomes de artistas tentados para normalização com LLM: 0 (Nota: versão atual usa capitalize_name, LLM para isso está desativada)
+
+--- Erros ---
+Erros encontrados durante o processamento de entradas individuais: 0
+
+--- Saída ---
+Dados musicais estruturados salvos em: C:\Users\misae\OneDrive\Desktop\playlist\Raiz_do_Projeto\output_script_principal\2025-05-28_20-07-46_run_final/music_data_final.json
+Lista de vídeos com artista(s) 'Unknown' OU música 'Unknown' salva em: C:\Users\misae\OneDrive\Desktop\playlist\Raiz_do_Projeto\output_script_principal\2025-05-28_20-07-46_run_final/unknown_extraction_videos_final.txt
+Lista de vídeos pulados (não-música/erro) salva em: C:\Users\misae\OneDrive\Desktop\playlist\Raiz_do_Projeto\output_script_principal\2025-05-28_20-07-46_run_final/skipped_videos_final.txt
+Este relatório foi salvo em: C:\Users\misae\OneDrive\Desktop\playlist\Raiz_do_Projeto\output_script_principal\2025-05-28_20-07-46_run_final/processing_report_final.txt
+
+--- Recomendações ---
+- Revise 'unknown_extraction_videos_final.txt'. Melhore 'extract_song_artist_from_title' e os prompts da LLM se a chave da API estiver configurada.
+- Revise 'skipped_videos_final.txt'. Ajuste 'is_likely_music_video' se necessário.
+- Implemente chamadas reais a APIs de música em 'enrich_track_details_with_search' para gêneros, álbuns, etc.
+- Considere uma normalização de nomes de artistas mais sofisticada (ex: reconciliação com MusicBrainz ou similar).

@@ -1,0 +1,34 @@
+--- SCRIPT EXECUTION REPORT (New Workflow v3) ---
+Processing Start Time: 2025-05-28 20:12:13
+Processing End Time: 2025-05-28 20:12:25
+Total Processing Duration: 12.11 seconds
+
+--- Video Processing Summary ---
+Total video entries read from genre files: 7792
+Videos identified as music: 6698
+Videos skipped (classified as non-music, empty, or error): 1094
+
+--- Music Information Extraction (for identified music videos) ---
+Successfully extracted Artist AND Song title: 6662
+Artist could not be determined (marked 'Unknown'): 36
+Song title could not be determined (marked 'Unknown'): 0
+Both Artist AND Song title were 'Unknown' (extraction fully failed): 0
+Note: 'Artist/Song could not be determined' counts may overlap.
+
+--- Data Enrichment (Mock Search) ---
+Music entries passed to MOCK search function: 6662
+IMPORTANT: The search function ('enrich_track_details_with_search') is currently a MOCK.
+
+--- Errors ---
+Errors encountered during processing of individual entries: 0
+
+--- Output ---
+Structured music data saved to: C:\Users\misae\OneDrive\Desktop\playlist\Raiz_do_Projeto\output_script_principal\2025-05-28_20-12-13_run_v9_full_pipeline/music_data.json
+List of videos with 'Unknown' artist OR 'Unknown' song saved to: C:\Users\misae\OneDrive\Desktop\playlist\Raiz_do_Projeto\output_script_principal\2025-05-28_20-12-13_run_v9_full_pipeline/unknown_extraction_videos.txt
+List of skipped videos saved to: C:\Users\misae\OneDrive\Desktop\playlist\Raiz_do_Projeto\output_script_principal\2025-05-28_20-12-13_run_v9_full_pipeline/skipped_videos.txt
+This report saved to: C:\Users\misae\OneDrive\Desktop\playlist\Raiz_do_Projeto\output_script_principal\2025-05-28_20-12-13_run_v9_full_pipeline/processing_report.txt
+
+--- Recommendations ---
+- Review titles where artist/song extraction failed (see 'unknown_extraction_videos.txt'). The 'extract_song_artist_from_title' function (especially channel name hint logic) might need refinement.
+- Review 'skipped_videos.txt'. If actual music videos were skipped, the 'is_likely_music_video' heuristics and keywords need adjustment.
+- For actual data enrichment, replace the mock 'concise_search' function with a real search implementation (e.g., Spotify API, MusicBrainz API).
